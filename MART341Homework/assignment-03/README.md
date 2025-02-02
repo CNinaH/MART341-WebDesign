@@ -8,7 +8,7 @@
 - How to use Visual Studio
 - Getting better with GitHub
 
-[Click Here](https://google.com)
+[Click Here](https://youtube.com)
 
 [My File](./responses.txt)
 
