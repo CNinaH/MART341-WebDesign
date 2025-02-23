@@ -1,0 +1,5 @@
+I am going to do the portfolio as the website I want to create. The website can be used for employment after I graduate. To have a website of all the works I have done in class and personally. I want to be able to have well orginized website to showcase my works.
+For now I kept everything on the left side since I am not sure how to algin it to the middle. For balance used the example in your Assignment 6 example. To make the images smaller, not sure how to make them the same size yet.  
+Since I am still learning I knew this would not turn out in the way my mind created but I think I will get there or close it by the end of the semester.
+I tried using the style="text-align: center;"> on some things from the emaple but ultimately could not get all the elements to work, the list with bulliton point, the words would move but the points would not. So I kept everything to the left. 
+I think I understood the assignment, I could be wrong. I am enjoying learning and I had fun experimenting on some styling, excited to leard more CSS. 
