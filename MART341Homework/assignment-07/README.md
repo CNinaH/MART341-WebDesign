@@ -1,0 +1,2 @@
+I like the color theme. The table took a minute to figure out to tie it into what was the pages theme. I like how it looks, hopefully learn how to center it, same with the form. One of my pictures for some reason doesn't want to line up with the rest and I am not sure how to fix it. I tried changing the height number or using auto but niether fixed it. I am glade I got everything to work!
+As each week goes on I gain more knowledge of how to code for html. I am proud of how well I am doing and look forward to each weeks assignments!
