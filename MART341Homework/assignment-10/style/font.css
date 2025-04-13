@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Arima';
+    src: url('fonts/Arima-Bold.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url('fonts/RobotoMono-SemiBoldItalic.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Tenor Sans';
+    src: url('fonts/TenorSans-Regular.ttf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    
+}

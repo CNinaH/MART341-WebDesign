@@ -11,6 +11,7 @@ h1 {
     align-items: center;
     justify-content: center;
     text-align: center;
+    font-family: Arima;
     
 }
 
@@ -21,13 +22,17 @@ h2 {
     align-items: center;
     justify-content: center;
     text-align: center;
-   
+    font-family: Roboto Mono;
 }
 
+p {
+    font-family: Tenor Sans;
+}
 
 nav {
     padding: 10px;
     text-align: left;
+    font-family: Robot Mono;
 }
 
 nav ul {
@@ -35,11 +40,13 @@ nav ul {
     display: flex;
     justify-content: left;
     gap: 20px;
+    font-family: Robot Mono;
 }
 
 nav ul li a {
     color:#f5f5f5;
     text-decoration: none;
+    font-family: Robot Mono;
 }
 
 .banner image {
@@ -78,4 +85,5 @@ footer {
     justify-content: center;
     text-align: center;  
     padding: 20px;
+    font-family: Arima;
 }
