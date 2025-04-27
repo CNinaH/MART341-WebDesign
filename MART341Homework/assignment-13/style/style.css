@@ -104,8 +104,6 @@ nav ul li a:hover {
 
 [class*="col-"] {
     width: 100%;
-    float: center;
-    padding: 15px;
 }
 
 @media only screen and (min-width: 600px) {
@@ -137,13 +135,6 @@ nav ul li a:hover {
     .col-11 {width: 91.66%;}
     .col-12 {width: 100%;}
     }
-
-.row::after {
-    content: "";
-    clear: both;
-    display: table;
-}
-
 
 body{
     background-color: #ffefd5;
