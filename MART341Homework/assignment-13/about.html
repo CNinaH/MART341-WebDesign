@@ -15,7 +15,7 @@
 
     .story {margin: 10px; padding: 20px; box-sizing:border-box; text-align: center;}
     
-  
+    .important-info {font-weight: bold; color:#2f4f4f}
 
     </style>
 
@@ -28,7 +28,12 @@
     <nav class="nav">
         <ul>
             <div class="display-inline-block">
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.html">Home</a>
+                    <div class="dropdown-content">
+                        <div class="dropdown-item">
+                             <a href="about.html">About</a>
+                    </div>
+                </li>
             </div>
 
             <div class="display-inline-block">
@@ -71,6 +76,6 @@
 
 </body>
 <footer>
-    <p style="text-align: center;">&copy; 2025 Christina Hansen</p>
+    <p style="text-align: center"><span class="important-info">&copy;2025 Christina Hansen</span></p>
 </footer>
 </html>
