@@ -32,7 +32,7 @@ p {
 nav {
     padding: 10px;
     text-align: left;
-    font-family: Robot Mono;
+    font-family: Roboto Mono;
 }
 
 nav ul {
@@ -40,13 +40,13 @@ nav ul {
     display: flex;
     justify-content: left;
     gap: 20px;
-    font-family: Robot Mono;
+    font-family: Roboto Mono;
 }
 
 nav ul li a {
     color:#f5f5f5;
     text-decoration: none;
-    font-family: Robot Mono;
+    font-family: Roboto Mono;
 }
 
 .banner image {
