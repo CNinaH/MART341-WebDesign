@@ -113,6 +113,7 @@ nav ul li a:hover {
 .col-12 {width: 100%;}
 
 [class*="col-"] {
+    width: 100%;
     float: center;
     padding: 15px;
 }
@@ -154,8 +155,8 @@ p {
     padding-bottom: 1em;
     margin-top: 1em;
     margin-bottom: 1em;
-    margin-left: auto;
-    margin-right: auto; 
+    margin-left: center;
+    margin-right: center; 
 }
 
 .photo-section {
@@ -228,7 +229,7 @@ p {
 .table-section {
     position: relative;
     right: auto;
-    left: 36%;
+    left: auto;
     align-items: left;
     justify-content: left;
     
@@ -238,7 +239,7 @@ p {
 .contact-section {
     position: relative;
     right: auto;
-    left: 36%;
+    left: auto;
     align-items: center;
     justify-content: center;
 }
